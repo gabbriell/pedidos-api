@@ -8,7 +8,6 @@ Gestão de Produtos: Integração para gestão de produtos relacionados aos pedi
 Monitoramento: Capacidade de monitorar o status dos pedidos em tempo real.
 
 # Tecnologias Utilizadas
-Linguagem de Programação: [Inserir linguagem utilizada, por exemplo, Python]
-Framework: [Inserir framework utilizado, por exemplo, Flask ou Django]
-Banco de Dados: [Inserir banco de dados utilizado, por exemplo, MySQL ou MongoDB]
-Ferramentas de Segurança: [Inserir ferramentas utilizadas para garantir a segurança da API]
+Linguagem de Programação: PHP, Java Script
+Framework: Laravel 10
+Banco de Dados: My Sql
