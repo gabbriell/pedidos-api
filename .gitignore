@@ -1,0 +1,35 @@
+# Arquivos de configuração do ambiente
+.env
+
+# Arquivos de cache
+bootstrap/cache/
+
+# Diretório de armazenamento de arquivos temporários
+storage/*.key
+storage/*.zip
+storage/debugbar/
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/testing/*
+storage/framework/views/*
+storage/logs/*
+
+# Arquivos gerados pelo Composer
+composer.phar
+vendor/
+
+# Arquivos de artefatos de teste
+phpunit.xml
+phpunit-*.xml
+/tests/
+
+# Arquivos de artefatos do PHP_CodeSniffer
+/phpcs.xml
+/.php_cs.cache
+
+# Arquivos de build do Laravel Mix
+public/css/
+public/js/
+
+# Arquivos de logs do Apache
+error_log
